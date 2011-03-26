@@ -9,6 +9,8 @@ gem 'mysql2'
 gem 'spree'
 gem 'spree_heroku'
 gem 'aws-s3'
+gem 'taps', '03.20'
+
 
 # Use unicorn as the web server
 # gem 'unicorn'
